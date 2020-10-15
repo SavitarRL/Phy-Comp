@@ -16,5 +16,4 @@ m_b = 2.7/1000  #mass of ball
 d_t = 0.025     #collsion time with the block
 #using equation 8
 d = (160*m.sqrt(10)+400*m.sqrt(2))*(s**2)/(d_t*m.sqrt(g*h_1))*1000
-
 print(d)
